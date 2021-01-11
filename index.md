@@ -1,6 +1,6 @@
 ## Welcome to _Papaver_ species Genomic Data Page
 
-# This is the Genomics Data resuorce of Papaver species genome
+# This is the Genomics Data resuorce of _Papaver_ species genome
 
 Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (common poppy), and _Papaver setigerum_ (troy poppy) genomic data
 
