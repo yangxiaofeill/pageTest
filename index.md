@@ -12,6 +12,28 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <h1><i>Papaver somniferum</i></h1>
       <p><b>Genomic Raw Data</b> <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Assembly Genome</b><a href = "https://bigd.big.ac.cn"> GWHAZPI00000000 </a></p>
+      <table border="0">
+          <tr>
+            <td>Genome Annotation</td>
+            <td>
+              <table border="0">
+                  <tr>
+                    <td>Protein coding annotation in `gff3` format</td>
+                  </tr>
+                  <tr>
+                    <td>Protein coding annotation in `bed` format</td>
+                  </tr>
+                  <tr>
+                    <td>CDS sequence of Protein coding genes </td>
+                  </tr>
+                  <tr>
+                    <td>Protein sequence of Protein coding genes </td>
+                  </tr>
+              </table>
+            </td>
+          </tr>
+      </table>
+      
       <p><b>Genome Annotation</b><a href = "https://bigd.big.ac.cn"> GWHAZPI00000000 </a></p>
       <p><b>Genome Annotation</b><a href = "https://bigd.big.ac.cn"> GWHAZPI00000000 </a></p>
       <p><b>Genome Annotation</b><a href = "https://bigd.big.ac.cn"> GWHAZPI00000000 </a></p>
