@@ -12,13 +12,13 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <h1><i>Papaver somniferum</i></h1>
       <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Assembly Genome</b>: <a href = "https://bigd.big.ac.cn"> GWHAAFE00000000 </a></p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_somniferum/Papaver_somniferum.bed"> <i>bed</i> file </a> </p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_somniferum/Papaver_somniferum.gff3"> <i>gff3</i> file </a> </p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_somniferum/Papaver_somniferum.cds.fa"> <i>cds of protein-coding genes</i> </a></p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_somniferum/Papaver_somniferum.pep.fa"> <i>amnio acid of protein-coding genes</i> </a></p>
+      <p><b>Genome Annotation</b>: <a href = "/Papaver_somniferum/Papaver_somniferum.bed"> <i>bed</i> file </a> </p>
+      <p><b>Genome Annotation</b>: <a href = "/Papaver_somniferum/Papaver_somniferum.gff3"> <i>gff3</i> file </a> </p>
+      <p><b>Genome Annotation</b>: <a href = "/Papaver_somniferum/Papaver_somniferum.cds.fa"> <i>cds of protein-coding genes</i> </a></p>
+      <p><b>Genome Annotation</b>: <a href = "/Papaver_somniferum/Papaver_somniferum.pep.fa"> <i>amnio acid of protein-coding genes</i> </a></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/yangxiaofeill/pageTest/blob/main/image/opium_poppy.png" width="100%">
+      <img src="/image/opium_poppy.png" width="100%">
     </td>
   </tr>
   
@@ -33,7 +33,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_setigerum/Papaver_setigerum.pep.fa"> <i>amnio acid of protein-coding genes</i> </a></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/yangxiaofeill/pageTest/blob/main/image/setigerum.png" width="100%">
+      <img src="/image/setigerum.png" width="100%">
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_rhoeasm/Papaver_rhoeasm.pep.fa"> <i>amnio acid of protein-coding genes</i> </a></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/yangxiaofeill/pageTest/blob/main/image/rhoeas.png" width="100%">
+      <img src="/image/rhoeas.png" width="100%">
     </td>
   </tr>
 </table>
