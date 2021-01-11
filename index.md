@@ -56,5 +56,5 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
 
 ---
 ### Support or Contact
-If you have any questions, please contact with Dr. Xiaofei Yang, xfyang@xjtu.edu.cn, yangxiaofeihe@163.com
+If you have any questions, please contact with Dr. Xiaofei Yang, [xfyang@xjtu.edu.cn](xfyang@xjtu.edu.cn), [yangxiaofeihe@163.com](yangxiaofeihe@163.com)
 
