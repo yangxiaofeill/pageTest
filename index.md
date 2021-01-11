@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to _Papaver_ species Genomic Data Page
+
+# This is the Genomics Data resuorce of Papaver species genome
+
+Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (common poppy), and _Papaver setigerum_ (troy poppy) genomic data
+
+
+
 
 You can use the [editor on GitHub](https://github.com/yangxiaofeill/pageTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
