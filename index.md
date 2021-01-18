@@ -33,7 +33,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_setigerum/Papaver_setigerum.pep.fa"> <i>amnio acid of protein-coding genes</i> </a></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/yangxiaofeill/pageTest/tree/main/image/setigerum.png" width="100%">
+      <img src="image/setigerum.png" width="100%">
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <p><b>Genome Annotation</b>: <a href = "https://github.com/yangxiaofeill/pageTest/blob/main/Papaver_rhoeasm/Papaver_rhoeasm.pep.fa"> <i>amnio acid of protein-coding genes</i> </a></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/yangxiaofeill/pageTest/tree/main/image/rhoeas.png" width="100%">
+      <img src="image/rhoeas.png" width="100%">
     </td>
   </tr>
 </table>
